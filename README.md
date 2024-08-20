@@ -9,3 +9,4 @@ Also here is the reference for the foundations on Riemannian geometry:
 
 | Title | Date | Topic|
 |-------|------|-----|
+|[Wasserstein information matrix](https://arxiv.org/abs/1910.11248)|  |OT & IG|
