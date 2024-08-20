@@ -8,7 +8,7 @@ Also here is the reference for the foundations on Riemannian geometry:
 
 ### Past Papers  
 
-| Title | Date | Topic |
+| Title | Date(d/m/y) | Topic |
 |-------|------|-----|
 |[Wasserstein information matrix](https://arxiv.org/abs/1910.11248)|  |OT & IG|
 |[Bregman-Wasserstein divergence: geometry and applications](https://arxiv.org/pdf/2302.05833) |20.8.24 |Dual Geom & OT |
