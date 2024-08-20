@@ -6,6 +6,7 @@ This is a reading group focusing on geometry of optimal transport and informatio
 [Information geometry and its application](https://link.springer.com/book/10.1007/978-4-431-55978-8) - Shun-ichi Amari    
 Also here is the reference for the foundations on Riemannian geometry:      
 [Riemannian Geometry](https://ia800300.us.archive.org/16/items/topology-collection/Riemannian%20Geometry%20-%20M.%20doCarmo_text.pdf) - Do Carmo     
+A short recap of information geometry can also be found in [Information geometry mechanisms behind maximising channel capacity](https://github.com/probabilityFLOW/Geometry-reading-group/blob/main/Mini_Project_1.4.pdf) by Kieran.
 
 ### Past Papers  
 
