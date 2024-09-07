@@ -1,6 +1,6 @@
 # Geometry-reading-group  
-## University of Bristol Statistial Machine Learning  
-This is a reading group focusing on geometry of optimal transport and information and their application in machine learning(e.g. flow/diffusion based model or sampling scheme). The main reference:   
+## University of Bristol Statistical Machine Learning  
+This reading group focuses on the geometry of optimal transport and information and their application in machine learning(e.g. flow/diffusion-based model or sampling scheme). The main reference:   
 [Statistical optimal transport](https://arxiv.org/abs/2407.18163) -  Sinho Chewi et al.   
 [Log-concave Sampling](https://chewisinho.github.io/main.pdf) - Sinho Chewi    
 [Information geometry and its application](https://link.springer.com/book/10.1007/978-4-431-55978-8) - Shun-ichi Amari    
