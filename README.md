@@ -14,3 +14,4 @@ A short recap of information geometry can also be found in [Information geometry
 |-------|------|-----|
 |[Wasserstein information matrix](https://arxiv.org/abs/1910.11248)|  |OT & IG|
 |[Bregman-Wasserstein divergence: geometry and applications](https://arxiv.org/pdf/2302.05833) |20.8.24 |Dual Geom & OT |
+|[Wasserstein GAN](https://arxiv.org/abs/1701.07875)|18.9.2024|OT|
